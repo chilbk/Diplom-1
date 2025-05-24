@@ -1,0 +1,7 @@
+praktikum/pytest-cache*/
+praktikum/.coverage
+*~
+__pycache__/
+praktikum/__pycache__
+tests/__pycache__
+.coverage
